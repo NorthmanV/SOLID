@@ -10,3 +10,6 @@ Objects in a program should be replaceable with instances of their subtypes with
 
 ### Interface segregation principle
 Many client-specific interfaces are better than one general-purpose interface.
+
+### Dependency inversion principle
+One should depend upon abstractions, not concretions.
